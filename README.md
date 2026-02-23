@@ -23,8 +23,8 @@ Display the result.
 
 ## Program:
 ```
-DEVELOPED BY: VINOLIA ALAINA .R
-REGISTER NUMBER: 212224240184
+DEVELOPED BY: Nirmal N
+REGISTER NUMBER: 212223240107
 ```
 
 ### Read image and convert it to grayscale image
